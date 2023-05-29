@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebLink xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>ConfigureMediaPlan</fullName>
+    <availability>online</availability>
+    <description>This Quick Button invokes Media Plan Flow to configure an existing Media plan using a MediaPlan Id. added</description>
+    <displayType>button</displayType>
+    <encodingKey>UTF-8</encodingKey>
+    <height>600</height>
+    <linkType>url</linkType>
+    <masterLabel>Configure Media Plan</masterLabel>
+    <openType>sidebar</openType>
+    <protected>false</protected>
+    <url>/lightning/cmp/vlocity_cmt__vlocityLWCOmniWrapper?c__target=c:vplAdsMediaPlanDetailsEnglish&amp;c__layout=lightning&amp;c__tabLabel=Configure Media Plan&amp;c__tabIcon=custom:custom18&amp;c__ContextId={!Quote.Id}&amp;c__cartId={!Quote.Id}&amp;c__isConfigure=true</url>
+</WebLink>

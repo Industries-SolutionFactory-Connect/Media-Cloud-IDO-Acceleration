@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebLink xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CreateMediaPlan</fullName>
+    <availability>online</availability>
+    <description>This Quick Button invokes Media Plan Flow to create a new Media plan using a Media Campaign Id. added</description>
+    <displayType>button</displayType>
+    <encodingKey>UTF-8</encodingKey>
+    <height>600</height>
+    <linkType>url</linkType>
+    <masterLabel>Create Media Plan</masterLabel>
+    <openType>sidebar</openType>
+    <protected>false</protected>
+    <url>/lightning/cmp/vlocity_cmt__vlocityLWCOmniWrapper?c__target=c:vplAdsMediaPlanDetailsEnglish&amp;c__layout=lightning&amp;c__tabLabel=Create Media Plan&amp;c__tabIcon=custom:custom18&amp;c__ContextId={!Opportunity.Id}&amp;c__isConfigure=false</url>
+</WebLink>
